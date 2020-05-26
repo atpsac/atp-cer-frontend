@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "atp-cer"
+    }
+  },
+  "defaultProject": "atp-cer",
+  "cli": {
+    "analytics": false
+  }
 }
